@@ -1,2 +1,2 @@
 # practice
-If you are interested in
+Here are some sources for bioinformatics practice：
